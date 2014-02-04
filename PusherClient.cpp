@@ -45,7 +45,7 @@ PROGMEM const char* pusherInfos[] =
 prog_char stringVar0[] PROGMEM = "#1";
 prog_char stringVar1[] PROGMEM = "#2";
 prog_char stringVar2[] PROGMEM = "#3";
-prog_char pusherPath[] PROGMEM = "/app/#1?client=js&version=1.9.0";
+prog_char pusherPath[] PROGMEM = "/app/#1?client=js&version=2.1";
 prog_char pusherHostname[] PROGMEM = "ws.pusherapp.com";
 prog_char subscribeEventName[] PROGMEM = "pusher:subscribe";
 prog_char subscribeMessage1[] PROGMEM = "{\"channel\":\"#1\"}";
